@@ -57,8 +57,6 @@ Python Programming
 
 Client-side JavaScript
 
-Database Optimization
-
 Secure Coding Practices
 
 # Connect With Me
