@@ -184,3 +184,7 @@ section{
     justify-content: center;
     gap: 5rem;
 }
+.grid-card{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
