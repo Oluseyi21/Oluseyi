@@ -217,7 +217,7 @@ section{
     color: transparent;
 }
 
-::webkit-scrollbar{
+/* ::webkit-scrollbar{
     width: 20px;
 }
 ::webkit-scrollbar-track{
@@ -225,4 +225,4 @@ section{
 }
 ::webkit-scrollbar-thumb{
     background: linear-gradient(to bottom, #009dff, #ff00ff);
-}
+} /*
