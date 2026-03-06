@@ -317,6 +317,24 @@ section{
 .input{
     position: relative;
 }
+.input-box input,
+.input-box button, 
+.input-box textarea {
+    width: 100%;
+    max-width: 400px; 
+    border-radius: 2rem; 
+    border: 1.5px solid #333; 
+    padding: 0.8rem 1.5rem; 
+    font-size: 1rem; 
+    outline: none;
+    transition: border-color 0.3s ease;
+}
+
+.input-box textarea {
+    min-height: 150px; 
+    resize: vertical;  
+    border-radius: 1.5rem;
+}
 footer {
     position: fixed; 
     bottom: 0;
